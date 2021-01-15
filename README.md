@@ -10,7 +10,7 @@ Enjoy ☺
 ```
 [ Linux ]
 [ Programming ]
-├───0 [ Miscellaneous ]
+┌───0 [ Miscellaneous ]
 ├───1 [ Network Security ]
 ├───2 [ Web Security ]
 ├───3 [ Reverse Engineering - Malware Analysis ]
