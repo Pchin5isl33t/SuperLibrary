@@ -8,7 +8,7 @@ Information Security Library
 
 
 #### `Library link :`
-- https://mega.nz/folder/w2gCGJKJ#Tk8GYB3iKbDcnpvUM1gIPQ
+- https://mega.nz/folder/Zjw2HSxD#-ivd-yl8GES6mRwf7C1UGg
 
 ## Library content 🧾
 ```
