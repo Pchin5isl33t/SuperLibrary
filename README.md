@@ -1,10 +1,10 @@
 ## 📚 SuperLibrary 📚
-Information Security Library 
+Library of Information Security
 
-## ⚠️ Disclaimer ⚠️
-- I've uploaded books for people who don't have the ability to buy books.
-- If you benefit from a book and start making money from it, please buy a hard copy of the book to encourage writers to publish new books or even develop old ones.
-- I take no responsibility for any misuse of books.
+## ⚠️ Notice of disclaimer ⚠️
+- I've uploaded books for anyone who can't afford to purchase them.
+- Please buy a hard copy of a book if you profit from it.
+- I will not be held liable for any misuse of books.
 
 
 #### `Library link :`
