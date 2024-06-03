@@ -96,7 +96,8 @@ Library of Information Security
 ├───22 [ EC-Council ]
 │   └───CEHv10
 │       └───Slides
-└───23 [ Arabic ]
+├───23 [ eLearnSecurity ]
+└───24 [ Arabic ]
 defcon torrent.zip
 Disclaimer.txt
 ```
